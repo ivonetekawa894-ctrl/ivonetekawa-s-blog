@@ -1,0 +1,8 @@
+baseURL = "https://example.org/"
+title = "invonetekawa"
+theme = "PaperMod"
+
+[languages.en]
+  locale = "en-US"
+  languageName = "English"
+  weight = 1
